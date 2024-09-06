@@ -1,2 +1,2 @@
 # ReconocedorDeIdiomas
-Programa para reconocer idiomas de un archivo de texto.
+Programa con nodeJs para reconocer idiomas de un archivo de texto.
