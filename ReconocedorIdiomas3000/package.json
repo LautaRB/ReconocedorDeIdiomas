@@ -1,0 +1,11 @@
+{
+  "name": "reconocedoridiomas3000",
+  "version": "1.0.0",
+  "description": "App para reconocer el idioma de un texto en base a probabilidad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lautaro Rodriguez Brown",
+  "license": "ISC"
+}
